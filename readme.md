@@ -5,4 +5,9 @@
 
 **![Hardware block diagram](block_diagram.png)**
 
+Figure 1: Hardware block diagram
+
+
 **![System Diagram](system_diagram.png)**
+
+Figure 2: System diagram
